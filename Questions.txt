@@ -1,0 +1,42 @@
+- Introduction
+    - What is the problem that needs a solution?
+        Generating the most human like face.
+    - Why is it a problem?
+        It is useful in animations and movies creation as it allows a director to choose a face between wider range, a face the it would fit the picture
+        that the director had in mind for the script.
+
+        It is useful in advertising, quickly matching a face with a product.
+- Main Story
+    - Setup
+        - With what am I starting with?
+            I am starting with reading 2 papers on face generations. GAN and VAE
+        - What is the initial plan?
+            The intial plan is to comapre GAN and VAE and pick which one is better
+    - adventure starts
+        - show initial (failing) examples
+        - struggle should be clear
+              Showing the most fucked up faces with bad training data, not enough examples
+    - biggest antagonist
+        - After small successes what is the biggest struggle?
+              We have good and enough training data but there is still a problem
+              We have GAN faces that look like orks, very ugly but HD
+              We have VAE faces that look like ghosts, look human but very aerie  and vague
+        - How was it overcome?
+              Here comes VAE- GAN mixture between GAN and VAE
+              Show how the architecture of the 2 is mixed up
+        - show final result (better than before)
+              Showing final PERFECT VAE-GAN result. The saviour. Sadly not run my us.
+- Conclusion
+    - Small summary
+        - What was learned from the unexpected?
+        Due to the nature of the GAN and VAE, whatever that might be, the generated images come with specific relics,
+    - What value was generated?
+        The value is educational to show how realistic faces can be generated, to avoid the risk for falling for fake videos.........
+
+        Avoiding fraud
+
+        Entertainment
+
+        Or creating personal face of a company,
+
+        Saving resources on actors, animators
