@@ -1,0 +1,2 @@
+model_checkpoint_path: "VaeModel160Epochs weights checkpoint"
+all_model_checkpoint_paths: "VaeModel160Epochs weights checkpoint"
